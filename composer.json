@@ -1,0 +1,18 @@
+{
+    "name": "test/test",
+    "description": "Testing For NV",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Snow",
+            "email": "john@Wildling.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    },
+    "require": {}
+}
